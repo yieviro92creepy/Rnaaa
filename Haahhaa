@@ -25,7 +25,7 @@ TH.TextSize = 25.000
 TH.MouseButton1Down:connect(function()
 game:GetService("CoreGui").KingOnTop:Destroy()
 wait()
-loadstring(game:HttpGet("https://pastebin.com/raw/Ct05PRsH"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yieviro92creepy/Kingr/main/Wee"))()
 wait()
 local plr = game.Players.LocalPlayer
 local char = plr.Character or plr.CharacterAdded:Wait()
